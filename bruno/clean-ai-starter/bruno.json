@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "chirp",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
